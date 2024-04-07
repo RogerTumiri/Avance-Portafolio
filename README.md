@@ -1,5 +1,5 @@
 # Avance-Portafolio
-Este es el proceso sobre de mi portafolio
+Aqui se encuentra el avance sobre mi portafolio
 
 # Autor
 Roger Tumiri
